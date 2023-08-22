@@ -1,0 +1,19 @@
+/* Estilo para a caixa de ícone personalizada */
+.feature-icon-small {
+    width: fit-content; /* Largura se ajustará ao conteúdo */
+    border: none; /* Remove a borda */
+    padding: 6px; /* Adiciona espaço interno para a borda */
+}
+
+.img-sites{
+    width: 400px;
+    height: 400px;
+}
+
+#features-section{
+    background-color: #f6f6f6;
+}
+
+#contact-section{
+    background-color: #f6f6f6;
+}
